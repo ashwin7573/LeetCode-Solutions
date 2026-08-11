@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
