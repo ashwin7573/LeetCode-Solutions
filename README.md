@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -46,5 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
