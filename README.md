@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3467-transform-array-by-parity](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
@@ -118,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ashwin7573/LeetCode-Solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 <!---LeetCode Topics End-->
